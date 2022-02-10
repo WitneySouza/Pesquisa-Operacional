@@ -1,8 +1,5 @@
 # Projeto Supermercado (OTIMIZAÇÃO)
 
-> Alunos: Witney Reinande de Souza Araujo, Vicente Nascimento Souza.
-
-
 ## Projeto de Pesquisa Operacional
 
 
